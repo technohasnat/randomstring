@@ -1,5 +1,7 @@
 {
     "name": "technohasnat/randomstring",
+    "type": "package",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "RandomString\\": "src/"
@@ -11,7 +13,6 @@
             "email": "hasnat@technobd.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0"
     }
