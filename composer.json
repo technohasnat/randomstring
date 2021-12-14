@@ -13,6 +13,7 @@
             "email": "hasnat@technobd.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0"
     }
