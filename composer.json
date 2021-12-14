@@ -1,5 +1,5 @@
 {
-    "name": "hasnat/random-string",
+    "name": "technohasnat/randomstring",
     "autoload": {
         "psr-4": {
             "RandomString\\": "src/"
